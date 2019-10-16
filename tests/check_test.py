@@ -1,5 +1,5 @@
 from unittest import TestCase
-from checkparams.checkparams import check_param
+from checkparam.checkparam import check_param
 from parameterized import parameterized, param
 
 
